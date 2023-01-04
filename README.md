@@ -6,9 +6,12 @@
 pkg update && apt upgrade
 apt install git -y
 pkg install python 
-git clone 
+git clone https://github.com/RyanCod3/ImplementasiIPAS.git
 ```
 
-## Module 
+## MODULE
+
+'''bash
 pip install pyfiglet
 pip install termcolor
+'''
