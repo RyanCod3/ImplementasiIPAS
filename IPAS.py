@@ -146,7 +146,7 @@ while True:
 		mengetik(" 	= "+str(a)+"x ("+str(b)+")")
 		c = a * b
 		mengetik("        = "+str(c)+" J\n")
-		speaker("Semoga bisa membantu")
+		
 		mengetik("Semoga bisa membantu")
 	
 		
