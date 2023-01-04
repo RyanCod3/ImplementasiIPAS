@@ -11,7 +11,7 @@ git clone https://github.com/RyanCod3/ImplementasiIPAS.git
 
 ## MODULE
 
-'''bash
+```bash
 pip install pyfiglet
 pip install termcolor
-'''
+```
