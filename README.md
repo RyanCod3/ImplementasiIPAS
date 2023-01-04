@@ -1,4 +1,4 @@
-# ImplementasiIPAS
+# Implementasi Rumus IPAS di Python
 
 ## FOR TERMUX
 
