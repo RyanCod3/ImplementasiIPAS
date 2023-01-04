@@ -107,7 +107,7 @@ while True:
 		else:
 		 	   mengetik(colored("Error : Inputkan angka yang benar...\n","red"))
  
-	if pilih == 6:
+	elif pilih == 6:
 		mengetik(">> Kumpulan Program Konversi")
 		print("[1] Konversi km/jam ke m/s")
 		print("[2] Konversi g ke kg\n")
