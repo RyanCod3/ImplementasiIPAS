@@ -1,12 +1,14 @@
 # ImplementasiIPAS
 
-Untuk Pengguna Termux 
+## FOR TERMUX
 
-pkg update && pkg upgrade
-pkg install python
-pkg install git
-git clone https://github.com/RyanCod3/ImplementasiIPAS
+```bash
+pkg update && apt upgrade
+apt install git -y
+pkg install python 
+git clone 
+```
 
-Module yang dibutuhkan
+## Module 
 pip install pyfiglet
-pip install termcolor 
+pip install termcolor
