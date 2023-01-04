@@ -140,10 +140,10 @@ while True:
 		v = float(input("      V: "))
 		mengetik("Dit: Ek = ...?")
 		mengetik("Jwb: Ek = ½mv²")
-		mengetik("        = ½ x "+str(m)+"kg x ("+str(v)+")² m/s")
+		mengetik("        = ½ x "+str(m)+" kg x ("+str(v)+")² m/s")
 		a = 1/2*m
 		b = v**2
-		mengetik(" 	= "+str(a)+"x ("+str(b)+")")
+		mengetik(" 	= "+str(a)+" x ("+str(b)+")")
 		c = a * b
 		mengetik("        = "+str(c)+" J\n")
 		
